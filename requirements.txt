@@ -1,4 +1,4 @@
 pytest
-playwrite
+playwright
 requests
 pytest-html
