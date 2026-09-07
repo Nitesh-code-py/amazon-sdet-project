@@ -26,3 +26,12 @@ A simple and clean SDET project for Amazon with UI and API testing.
 Total 4 tests - All Passed
 
 ## Project Folder
+
+
+## How to Run This Project
+
+pip install -r requirements.txt
+playwright install
+pytest --html=report.html -v
+
+After running, open report.html in your browser to see the result.
