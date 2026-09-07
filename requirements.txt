@@ -1,0 +1,4 @@
+pytest
+playwrite
+requests
+pytest-html
