@@ -19,5 +19,5 @@ def test_amazon_title(page):
     content = page.content().lower()
     title = page.title()
     print(f"Title found: {title}")
-    assert "Amazon" in title.lower() or "amazon" in content or page.url.startswith("https://www.amazone")
+    assert "Amazon" in title.lower() or "amazon" in content or page.url.startswith("https://www.amazon")
 
