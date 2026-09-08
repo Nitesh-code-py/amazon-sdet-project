@@ -1,5 +1,5 @@
-# Amazone SDET Automation Project
-![CI](https://github.com/Nitesh-code-py/amazone-sdet-project/actions/workflows/ci.yml/badge.svg)
+# Amazon SDET Automation Project
+![CI](https://github.com/Nitesh-code-py/amazon-sdet-project/actions/workflows/ci.yml/badge.svg)
 
 ![Tests](https://img.shields.io/badge/Tests-4%20Passed-green)
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
